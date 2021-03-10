@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ElectronicResource
+comment0.text=\r\n\ Class\ to\ hold\ details\ of\ electronic\ resources\ in\ library\r\nSubclass\ to\ Resource\ class\r\n\r\n\ @author\ (Michael\ Hird)\r\n\ @version\ (02/12/2020)\r\n
+comment1.params=author\ title
+comment1.target=ElectronicResource(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Create\ a\ new\ electronic\ resource\r\n\ \r\n\ @param\ author\ The\ eresources\ author\r\n\ @param\ title\ The\ eresources\ title\r\n
+comment2.params=_device
+comment2.target=void\ addDevice(Device)
+comment2.text=\r\n\ Method\ to\ add\ a\ device\ to\ a\ list\ of\ library\ devices\ \r\n\ used\ for\ accessing\ eresources\r\n\ \r\n\ @param\ _device\ The\ device\ to\ be\ added\r\n
+comment3.params=_device
+comment3.target=void\ removeDevice(Device)
+comment3.text=\r\n\ Method\ to\ remove\ device\ from\ the\ list\ of\ library\ devices\r\n\ \r\n\ @param\ _device\ The\ device\ to\ be\ removed\r\n
+comment4.params=
+comment4.target=int\ deviceListSize()
+comment4.text=\r\n\ Method\ to\ return\ the\ number\ of\ devices\ in\ the\ list\ of\ library\ devices\r\n\ \r\n\ @return\ The\ number\ of\ devices\ \r\n
+comment5.params=
+comment5.target=void\ printResourceInfo()
+comment5.text=\r\n\ Method\ to\ print\ all\ the\ details\ of\ an\ eresource\r\n
+numComments=6

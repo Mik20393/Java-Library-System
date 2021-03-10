@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Resource
+comment0.text=\r\n\ Resource\ superclass\ to\ hold\ matching\ data\ fields\ of\ books\ and\ electronic\ resources\r\n\r\n\ @author\ (Michael\ Hird)\r\n\ @version\ (02/12/2020)\r\n
+comment1.params=Author\ Title
+comment1.target=Resource(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Create\ a\ new\ resource\r\n\ \r\n\ @param\ Author\ The\ author\ of\ the\ resource\r\n\ @param\ Title\ The\ title\ of\ the\ resource\r\n
+comment2.params=
+comment2.target=java.lang.String\ getAuthor()
+comment2.text=\r\n\ Method\ to\ return\ the\ author\ of\ a\ resource\r\n\ \r\n\ @return\ the\ author\ of\ a\ resource\r\n
+comment3.params=
+comment3.target=java.lang.String\ getTitle()
+comment3.text=\r\n\ Method\ to\ return\ the\ title\ of\ a\ resource\r\n\ \r\n\ @return\ The\ title\ of\ a\ resource\r\n
+comment4.params=Author
+comment4.target=void\ setAuthor(java.lang.String)
+comment4.text=\r\n\ Method\ to\ set\ the\ author\ of\ a\ resource\r\n\ \r\n\ @param\ Author\ The\ author\ of\ the\ resource\r\n
+comment5.params=Title
+comment5.target=void\ setTitle(java.lang.String)
+comment5.text=\r\n\ Method\ to\ set\ the\ title\ of\ a\ resource\r\n\ \r\n\ @param\ Title\ The\ title\ of\ the\ resource\r\n
+comment6.params=
+comment6.target=void\ printResourceInfo()
+comment6.text=\r\n\ Method\ to\ print\ resource\ info\r\n
+numComments=7
